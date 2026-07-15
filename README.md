@@ -3,7 +3,7 @@
 - Mod
 - Map
 - Server, Proxy
-- Render
+- Render, Graphic Editor
 
 # Launcher
 
@@ -17,4 +17,4 @@
 # Server, Proxy
 
 
-# Render
+# Render, Graphic Editor
