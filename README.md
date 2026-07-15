@@ -20,6 +20,9 @@ Tham khảo:
 - https://github.com/maximjsx/awesome-plugins - A list of top Minecraft plugins, tools, and resources for modern, fancy servers, including server resourcepacks and more!
 - https://github.com/NonSwag/awesome-folia - A collection of Folia plugins and projects I find awesome
 - https://github.com/ShadowDara/Awesome-Minecraft-Tools
+- https://github.com/Crazygiscool/awesome-minecraft-plugins - a popular list of minecraft plugins, updated some what recent?
+- https://github.com/KadTheHunter/awesome-nbt - The curated list of awesome things related to Minecraft's NBT and Component data.
+- https://github.com/DobroslavRadosavljevic/awesome-minecraft-hostings - A curated list of awesome Minecraft server hosting providers, services, and resources
 
 # Launcher
 
