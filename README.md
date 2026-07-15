@@ -1,19 +1,18 @@
 # minecraft_bebomg
 - Launcher
-- Mod
-- Map
+- Mod, ModPack, ModLoader
+- Map, Render, Graphic Editor
 - Server, Proxy
 - AI Agent, MC Bot
-- Render, Graphic Editor
 - Development
 
 # Launcher
 
 
-# Mod
+# Mod, ModPack, ModLoader
 
 
-# Map
+# Map, Render, Graphic Editor
 
 
 # Server, Proxy
@@ -23,7 +22,7 @@
 - https://github.com/YuvDwi/Steve
 
 
-# Render, Graphic Editor
+# Map, Render, Graphic Editor
 
 
 # Development
