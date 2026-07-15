@@ -3,6 +3,7 @@
 - Mod
 - Map
 - Server, Proxy
+- Bot, Agent
 - Render, Graphic Editor
 - Development
 
@@ -16,6 +17,9 @@
 
 
 # Server, Proxy
+
+
+# Bot, Agent
 
 
 # Render, Graphic Editor
