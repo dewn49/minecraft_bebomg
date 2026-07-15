@@ -14,6 +14,9 @@ Tham khảo:
 - https://github.com/Bytekron/Awesome-Minecraft
 - https://github.com/CAIMEOX/awesome-minecraft-bedrock
 - https://github.com/lizaijing/Awesome-Minecraft-Agent
+- https://github.com/ArkFlame/awesome-minecraft - A curated, production-oriented index of Minecraft server software, plugins, mods, developer tooling, infrastructure, marketplaces, documentation, and community resources
+- https://github.com/Modern-Modpacks/awesome-packdev - A curated list of mods, apps, and resources simplifying the lives of Minecraft modpack developers
+- https://github.com/PumpkinPlugins/AwesomePumpkin - https://github.com/PumpkinPlugins/AwesomePumpkin
 
 # Launcher
 
