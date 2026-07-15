@@ -28,7 +28,7 @@ Tham khảo:
 
 # AI Agent, MC Bot
 - https://github.com/YuvDwi/Steve
-
+- https://github.com/lizaijing/Awesome-Minecraft-Agent
 
 # Map, Render, Graphic Editor
 
