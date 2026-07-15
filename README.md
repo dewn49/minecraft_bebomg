@@ -17,6 +17,9 @@ Tham khảo:
 - https://github.com/ArkFlame/awesome-minecraft - A curated, production-oriented index of Minecraft server software, plugins, mods, developer tooling, infrastructure, marketplaces, documentation, and community resources
 - https://github.com/Modern-Modpacks/awesome-packdev - A curated list of mods, apps, and resources simplifying the lives of Minecraft modpack developers
 - https://github.com/PumpkinPlugins/AwesomePumpkin - https://github.com/PumpkinPlugins/AwesomePumpkin
+- https://github.com/maximjsx/awesome-plugins - A list of top Minecraft plugins, tools, and resources for modern, fancy servers, including server resourcepacks and more!
+- https://github.com/NonSwag/awesome-folia - A collection of Folia plugins and projects I find awesome
+- https://github.com/ShadowDara/Awesome-Minecraft-Tools
 
 # Launcher
 
