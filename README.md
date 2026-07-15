@@ -20,7 +20,7 @@
 
 
 # AI Agent, MC Bot
-- [https://github.com/YuvDwi/Steve]
+- https://github.com/YuvDwi/Steve
 
 
 # Render, Graphic Editor
